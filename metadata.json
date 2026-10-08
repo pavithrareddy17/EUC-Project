@@ -1,0 +1,6 @@
+{
+  "name": "EUC Knowledge Guardian",
+  "description": "Institutional End User Computation (EUC) governance and automated knowledge recovery platform. Knowledge that survives the developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
